@@ -5,6 +5,7 @@ import java.util.Random;
 import javax.sound.sampled.*;
 
 public class GamePanel extends JPanel implements ActionListener {
+    // The "serialVersionUID" is a special field in Java that is used for version control during serialization and deserialization of objects.
     private static final long serialVersionUID = 1L;
 
     static final int WIDTH = 800;
