@@ -8,4 +8,4 @@ Instructions to run:
 
 3: Second command: java GameFrame GamePanel SnakeGame
 
-Program will then open.
+Program will then open.(Screenshots attached)
